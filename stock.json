@@ -1,7 +1,5 @@
 {
-  "out_of_stock": [
-    "TRF"
-  ],
+  "out_of_stock": [],
   "prices": {
     "PS": 6,
     "PW": 6,
@@ -26,5 +24,5 @@
     "AC": 1,
     "CF": 1
   },
-  "updated_at": "2026-09-17T21:33:28"
+  "updated_at": "2026-09-17T21:34:57"
 }
