@@ -1,4 +1,30 @@
 {
-  "out_of_stock": [],
-  "updated_at": "2026-09-17T01:31:58"
+  "out_of_stock": [
+    "TRF"
+  ],
+  "prices": {
+    "PS": 6,
+    "PW": 6,
+    "PP": 5,
+    "SPC": 5,
+    "PSF": 5,
+    "STR": 8,
+    "TRF": 7,
+    "PEP": 7,
+    "PEC": 7,
+    "PCN": 7,
+    "LAM": 5,
+    "VFF": 8,
+    "VF": 6,
+    "VPF": 3,
+    "BG": 5,
+    "BP": 4,
+    "CCG": 4,
+    "CCP": 3,
+    "VB": 2,
+    "ET": 1,
+    "AC": 1,
+    "CF": 1
+  },
+  "updated_at": "2026-09-17T21:33:28"
 }
