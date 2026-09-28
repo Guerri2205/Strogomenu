@@ -1,5 +1,7 @@
 {
-  "out_of_stock": [],
+  "out_of_stock": [
+    "ET"
+  ],
   "prices": {
     "PS": 6,
     "PW": 6,
@@ -28,5 +30,5 @@
     "AC": 1,
     "CF": 1
   },
-  "updated_at": "2026-09-28T12:40:04"
+  "updated_at": "2026-09-28T13:59:52"
 }
