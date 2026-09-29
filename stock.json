@@ -1,7 +1,9 @@
 {
   "out_of_stock": [
     "ET",
-    "CZ"
+    "CZ",
+    "PEC",
+    "TRF"
   ],
   "prices": {
     "PS": 6,
@@ -31,5 +33,5 @@
     "AC": 1,
     "CF": 1
   },
-  "updated_at": "2026-09-29T18:55:32"
+  "updated_at": "2026-09-29T19:27:20"
 }
